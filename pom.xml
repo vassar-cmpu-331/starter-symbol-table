@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>edu.vassar.cs.cmpu331</groupId>
-    <artifactId>model-symbol-table</artifactId>
+    <artifactId>symbol-table</artifactId>
     <version>1.0.0</version>
 
     <dependencies>
@@ -21,7 +21,7 @@
         </dependency>
         <dependency>
             <groupId>edu.vassar.cs.cmpu331</groupId>
-            <artifactId>lexical-analyzer-model</artifactId>
+            <artifactId>lexical-analyzer</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
