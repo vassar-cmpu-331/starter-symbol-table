@@ -35,7 +35,7 @@ public class SymbolTable {
 	public void dumpTable () {
 	}
 
-	public static void installBuiltins(SymbolTable table) {
+	public void installBuiltins()  throws SymbolTableError {
 	}
 
 }
